@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Dados: nunca versionar bases de pessoas
+*.csv
+*.xlsx
+*.xls
+saida/
+
+# Exceção: exemplo fictício usado na documentação
+!examples/exemplo_entrada.csv
+
+# Sistema
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
