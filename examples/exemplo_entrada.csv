@@ -1,0 +1,6 @@
+matricula,nome,cargo,matricula_lider
+M001,Ana,Diretora Comercial,
+M002,Bruno,Gerente de Vendas,M001
+M003,Carla,Coordenadora de Vendas,M002
+M004,Diego,Analista de Vendas,M003
+M005,Elisa,Analista de Pricing,M002
